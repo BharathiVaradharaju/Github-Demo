@@ -1,1 +1,1 @@
-This is the sample file for Github session.
+This is the sample text file for Github session.
